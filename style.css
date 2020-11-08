@@ -204,7 +204,7 @@ h6 {
 .news {
   padding-bottom: 80px;
   height: 100vh;
-  background-image: url(/img/bg-news_03.jpg);
+  background-image: url(./img/bg-news_03.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
@@ -291,7 +291,7 @@ h6 {
 
 .footer__footer {
   height: 70vh;
-  background-image: url(/img/bg-footer_03.jpg);
+  background-image: url(./img/bg-footer_03.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
