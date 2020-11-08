@@ -7,12 +7,12 @@ $("#js-news").click(function () {
 });
 $("#js-projects").click(function () {
     $('html, body').animate({
-        scrollTop: $(".about-us").offset().top
+        scrollTop: $(".projects").offset().top
     }, 700);
 });
 $("#js-projects-scroll").click(function () {
     $('html, body').animate({
-        scrollTop: $(".about-us").offset().top
+        scrollTop: $(".projects").offset().top
     }, 700);
 });
 
